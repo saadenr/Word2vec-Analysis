@@ -1,0 +1,90 @@
+Alice sings sweetly.
+Bob laughs loudly.
+Alice reads books.
+Bob drinks water.
+Alice draws flowers.
+Bob plays ball.
+Alice hugs trees.
+Bob climbs trees.
+Alice sees birds.
+Bob hears music.
+Alice smells roses.
+Bob tastes pizza.
+Alice touches clouds.
+Bob builds sandcastles.
+Alice swims gracefully.
+Bob cycles quickly.
+Alice paints pictures.
+Bob cooks eggs.
+Alice bakes cookies.
+Bob watches movies.
+Alice skips rocks.
+Bob catches fish.
+Alice explores caves.
+Bob sails boats.
+Alice plants seeds.
+Bob splashes water.
+Alice climbs mountains.
+Bob explores forests.
+Alice picnics outside.
+Bob camps overnight.
+Alice paddles canoes.
+Bob hikes trails.
+Alice photographs sunsets.
+Bob races cars.
+Alice swings high.
+Bob slides down.
+Alice plays with dolls.
+Bob builds robots.
+Alice sings songs.
+Bob dreams big.
+Alice and Bob eat cake.
+Bob and Alice run fast.
+Alice jumps with Bob.
+Bob and Alice smile wide.
+Alice and Bob dance together.
+Bob and Alice sleep deeply.
+Alice and Bob sing sweetly.
+Bob and Alice laugh loudly.
+Alice and Bob read stories.
+Bob and Alice drink water.
+Alice and Bob draw pictures.
+Bob and Alice play ball.
+Alice and Bob hug tightly.
+Bob and Alice climb trees.
+Alice and Bob see birds.
+Bob and Alice hear music.
+Alice and Bob smell flowers.
+Bob and Alice taste pizza.
+Alice and Bob touch clouds.
+Bob and Alice build castles.
+Alice and Bob swim gracefully.
+Bob and Alice cycle quickly.
+Alice and Bob paint scenes.
+Bob and Alice cook meals.
+Alice and Bob bake cookies.
+Bob and Alice watch shows.
+Alice and Bob skip rocks.
+Bob and Alice catch fish.
+Alice and Bob explore caves.
+Bob and Alice sail boats.
+Alice and Bob plant seeds.
+Bob and Alice ride bikes.
+Alice and Bob feed ducks.
+Bob and Alice chase bugs.
+Alice and Bob catch bugs.
+Bob and Alice splash water.
+Alice and Bob climb hills.
+Bob and Alice explore woods.
+Alice and Bob picnic outside.
+Bob and Alice camp overnight.
+Alice and Bob paddle canoes.
+Bob and Alice hike trails.
+Alice and Bob photograph sunsets.
+Bob and Alice race cars.
+Alice and Bob swing high.
+Bob and Alice slide down.
+Alice and Bob play with toys.
+Bob and Alice build robots.
+Alice and Bob sing songs.
+Bob and Alice dream big.
